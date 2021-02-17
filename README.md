@@ -3,7 +3,7 @@ Wi-Fi WPA key changer for Mikrotik and ZyXEL Keenetic routers using Telnet.
 
 This was conceived as a terminal that generates a temporary password for guest access to Wi-Fi.
 
-The connection data is displayed on the display in the form of a QR code, or using text.
+The connection data is displayed on the display in the form of a QR-code, or using text.
 
 The project used:
 1. Controller Thinary Nano Every.
